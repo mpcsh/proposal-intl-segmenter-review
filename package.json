@@ -1,0 +1,9 @@
+{
+  "name": "proposal-intl-segmenter-review",
+  "type": "module",
+  "dependencies": {
+    "es-abstract": "^1.17.6",
+    "internal-slot": "^1.0.2",
+    "prettier": "^2.0.5"
+  }
+}
